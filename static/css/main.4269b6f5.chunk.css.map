@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AACA,aACE,YAAa,CACb,6BAA8B","file":"main.4269b6f5.chunk.css","sourcesContent":["\n.card-header {\n  display: flex;\n  justify-content: space-between;\n}\n"]}
